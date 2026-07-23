@@ -1,7 +1,18 @@
 {
-  "name": "终极故事扩展 (汉化版)",
-  "version": "1.0.0",
-  "manifest_version": 1,
-  "entry": "index.js",
-  "description": "Fabula Ultima 角色卡扩展 - 中文汉化"
+    "name": "终极故事扩展 (汉化版)",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "action": {
+        "title": "终极故事",
+        "icon": "/icon.svg",
+        "popover": "https://erial8823-star.github.io/Cloud/index.js",
+        "height": 540,
+        "width": 550
+    },
+    "permissions": [
+        {
+            "name": "clipboard-write",
+            "reason": "复制骰子结果到剪贴板"
+        }
+    ]
 }
