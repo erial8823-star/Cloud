@@ -4,8 +4,8 @@
     "manifest_version": 1,
     "action": {
         "title": "终极故事",
-        "icon": "/icon.svg",
-        "popover": "https://erial8823-star.github.io/Cloud/index.js",
+        "icon": "",
+        "popover": "https://erial8823-star.github.io/Cloud/index.html",
         "height": 540,
         "width": 550
     },
