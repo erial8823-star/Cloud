@@ -1,0 +1,7 @@
+{
+  "name": "终极故事扩展 (汉化版)",
+  "version": "1.0.0",
+  "manifest_version": 1,
+  "entry": "index.js",
+  "description": "Fabula Ultima 角色卡扩展 - 中文汉化"
+}
