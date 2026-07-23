@@ -4,7 +4,7 @@
     "manifest_version": 1,
     "action": {
         "title": "终极故事",
-        "icon": "",
+        "icon": "https://fabula-ultima-character-extension.onrender.com/icon.svg",
         "popover": "https://erial8823-star.github.io/Cloud/index.html",
         "height": 540,
         "width": 550
