@@ -12269,8 +12269,8 @@ const D = e=>{
         children: t
     })
 }
-  , bh = "/assets/bgtechno-346d9ffe.jpg"
-  , Eh = "/assets/bgfantasy-4d2a3c10.jpg"
+  , bh = "https://fabula-ultima-character-extension.onrender.com/assets/bgtechno-346d9ffe.jpg"
+  , Eh = "https://fabula-ultima-character-extension.onrender.com/assets/bgfantasy-4d2a3c10.jpg"
   , Mp = ({theme: e, children: t, message: n})=>d.jsxs("div", {
     style: {
         backgroundImage: `url(${e === "fantasy" ? Eh : bh})`,
